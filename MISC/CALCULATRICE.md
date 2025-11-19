@@ -1,6 +1,5 @@
-** Calculatrice : 
-
-* **3 fonctions PHP** :
+## Calculatrice : 
+**3 fonctions PHP** :
 
   * `addition()`
   * `soustraction()`
