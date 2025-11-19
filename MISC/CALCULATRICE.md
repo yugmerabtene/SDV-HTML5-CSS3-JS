@@ -219,7 +219,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ---
 
-# 🔍 Différences avec la version précédente
+# Différences avec la version précédente
 
 Au lieu de :
 
@@ -238,8 +238,4 @@ switch ($operation) {
 }
 ```
 
-C’est plus propre et plus lisible quand on a beaucoup d’opérations.
 
-
-
-Je peux te faire tout ça.
