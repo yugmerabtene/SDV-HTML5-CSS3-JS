@@ -343,7 +343,3 @@ exit;
 
 * Supprime toutes les variables de session.
 * Redirige vers login.
-
-
-
-Dis-moi la suite.
